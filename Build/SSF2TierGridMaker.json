@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SSF2 Tier Grid Maker",
+"productVersion": "1.0",
+"dataUrl": "SSF2TierGridMaker.data.unityweb",
+"wasmCodeUrl": "SSF2TierGridMaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "SSF2TierGridMaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
